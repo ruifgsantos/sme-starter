@@ -1,4 +1,4 @@
-# sme_starter
+# smestarterv2
 
 A new Flutter project.
 

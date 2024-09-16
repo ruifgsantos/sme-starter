@@ -1,4 +1,4 @@
-package com.example.sme_starter
+package com.example.smestarterv2
 
 import io.flutter.embedding.android.FlutterActivity
 
